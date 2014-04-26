@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/aaronkirkbride
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aaronkirkbride.com
+  * I am aaronkirkbride (https://keybase.io/aaronkirkbride) on keybase.
+  * I have a public key with fingerprint C641 9C4D D9AD 7DB5 192A  6379 A9ED 073
+2 8F70 D784
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c6419c4dd9ad7db5192a6379a9ed07328f70d784",
+            "host": "keybase.io",
+            "key_id": "A9ED07328F70D784",
+            "uid": "114732a1c51284ad90250f70ce706700",
+            "username": "aaronkirkbride"
+        },
+        "service": {
+            "hostname": "aaronkirkbride.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398555897,
+    "expire_in": 157680000,
+    "prev": "5184b027d3dcbcba245c1d11b746808ca0c0cae91c85b119952a91b46feee3c2",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (MingW32)
+
+owGbwMvMwMS48i27UX/B9RbG0wf+JjEEx7iyVysl5adUKllVK2Wngqm0zLz01KKC
+osy8EiUrpWQzE0PLZJOUFMvEFPOUJFNDS6NEM2Nzy0TL1BQDc2MjizRzgxRzCxMl
+HaWM/GKQDqAxSYnFqXqZ+UAxICc+MwUo6mjp6gJW72Zu4AJRXwqWMDQ0AQonGiab
+GhpZmCSmWBoYmRoADU1ONTcwMzcwACksTi3KS8xNBapOTCzKz8vOLMpOKspMSVWq
+1VECypVlJqeCXA5yAFZ1esn5uUBzCoryS/KT83OA8hklJQVWIO0llQUg9eWpSfFQ
+k+KTMvNSgGEA1FCWWlScmZ+nZGUIVJlckgky2tDY0sLU1NTC0lxHKbWiILMoNT4T
+pMLU3MzCAAhA1qSWAY00NbQwSTIwMk8xTklOSk5KNDIxTTZMMTRMMjcBqrRITjRI
+NkhOTLU0TLYwTTI0tLQ0NUq0NEwyMUtLTU01TjZSAvmtMC9fycoM6MzEdKCRxZnp
+eYklpUVAj3cyybAwMDIxsLEygWKRgYtTABa3Rr4CDHMLhH/OaVj17PfxqdWGfemz
+mWZ1TdL3e/DVYF7yirtrnCa2Csvnfz7JMy15uetP71Rf9VnuHx8xCtVaZX7Y+SVE
+O6+WQ65eP8/V+aj1s38NC8142vq4kqes+Wm+w3OZVLBwZ9Hzt9Nq1ly2Ve7/wZb8
+4GrV7E2ys3Y/l27Zw3Z+262e2ZquD6yKJX98cGdhf/BVtm3/ye4HL4OZX19I/rhz
+hZeKZ5N1baBYVtJC5iyv8m2lV9gYp51d7ruVNfDTT/E9xxlXvtrBmpqz2FPgpJeC
+5lKFuxsWlRTUBxRld/XNv6Yvn931parKW27lTybJxWX7szNOXSyp/fhFzyRTSevw
+xEWTVkR1NT6a13JGcPWtVl6jeyVPrWze+rv8VNGfKXB2T/Ln4/d2ZZzZsVO3+scr
+iSvKUzKv8Ifv7sm2tnxk2939sZx136GdnHNr3efoG53MuLtZl4sxdMWz8yu2PWqo
+Yk/wYv//88ikLadKwyeoXlz4IsW6lGPu6u3Jp/LcRa5EWf1b8G660buLeR/1Td4+
+qz27/kOI+Fq+k90C1lecv1n/lEluL/X0lC2dfl9GWv5S05PIyCf39FmVL+f6nd/C
+ofHo6D3ly7PduK8zqYWx7FCe8+tfdbrnMeXq2df7+x4x3k1Xi+Ba+ju8SXPC8pj3
+32wXLoxMSv9tbyMQGFzKFqcl1fphLttTH/5ti0SVXp/hurA0xv5Ym0alHAA=
+=SkLM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aaronkirkbride
+
+==================================================================
