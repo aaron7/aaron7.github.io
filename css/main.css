@@ -1,3 +1,9 @@
+body .main{
+    padding: 15px;
+    font-family: monospace;
+    font-size: 14px;
+}
+
 a:link{color:inherit}
 a:active{color:inherit}
 a:visited{color:inherit}
