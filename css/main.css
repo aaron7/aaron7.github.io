@@ -1,7 +1,18 @@
-body .main{
-    padding: 15px;
-    font-family: monospace;
-    font-size: 14px;
+body {
+    background-color: #157FFF;
+}
+
+body h1 {
+    padding-top: 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 52px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+body #icons {
+    color: #FFFFFF;
+    text-align: center;
 }
 
 a:link{color:inherit}
